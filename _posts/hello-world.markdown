@@ -1,8 +1,12 @@
 ---
-title: 标题
-date: 2017-10-08
-tags: 标签
-category: 分类
+layout:     post
+title:      "Welcome"
+subtitle:   " \"Hello World, Hello \""
+date:       2015-01-29 12:00:00
+author:     "Hux"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
 ---
 # test
 this is ~~fo~~r t**es**t
